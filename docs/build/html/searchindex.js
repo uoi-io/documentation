@@ -1,0 +1,1 @@
+Search.setIndex({envversion:42,terms:{content:0,index:0,modul:0,search:0,page:0},objtypes:{},objnames:{},filenames:["index"],titles:["Unified OpenStack Installer&#8217;s documentation!"],objects:{},titleterms:{welcom:[],tabl:0,indic:0,unifi:0,openstack:0,instal:0,document:0}})
